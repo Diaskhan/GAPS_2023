@@ -97,3 +97,7 @@ https://mxsmirnov.com/2017/05/31/hateoas-2/
 )
 
 
+![alt text](
+https://static.tildacdn.com/tild6132-3032-4463-b265-613466393236/__2021-11-01__205321.png
+)
+
