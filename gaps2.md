@@ -1,17 +1,15 @@
 key factor = не работать в большом в городе, а работать в проекте.
 
 
-# скрам роли
-скрам мастер
+![alt text](https://static.probusiness.by/n/04/6/skram_master_1.jpg)
 
-владелец бизнеса
-
-владелец продукта
-
-Команда(разработчики аналитики,тестеры)
+![alt text](https://finswin.com/netcat_files/userfiles/Proektoved/Metody/38.jpg)
 
 
-# скрам 
+![alt text](
+https://www.slideteam.net/media/catalog/product/cache/1280x720/s/c/scrum_process_framework_agile_scrum_artifacts_slide01.jpg)
+
+
 Артифакты 
 https://scrumtrek.ru/blog/agile-scrum/scrum-glossary/3756/scrum-artifacts/
 

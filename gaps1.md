@@ -92,3 +92,8 @@ https://appmaster.io/ru/blog/mylo-protiv-otdykha
 модель зрелости ричардсона
 https://mxsmirnov.com/2017/05/31/hateoas-2/
 
+
+![alt text](https://static.javatpoint.com/tutorial/restful-web-services/images/restful-web-services-richardson-maturity-model2.png
+)
+
+
