@@ -83,6 +83,11 @@ Smoke-тесты полезно запускать сразу после соз�
 
 
 # REST API
+![alt text](
+https://miro.medium.com/max/4800/1*lFGlOSW19H184tUt9DhvUg@2x.webp
+)
+
+
 что такое rest 
 https://ru.wikipedia.org/wiki/REST
 
