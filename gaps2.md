@@ -28,3 +28,8 @@ filter midlleware
 
 wcf (биндинги)
 net.pipe
+
+
+
+# индексирумые коллекции и не индескирумые колекции
+https://stefaniuk.website/all/collection-in-csharp/
