@@ -31,3 +31,6 @@ net.pipe
 
 # индексирумые коллекции и не индескирумые колекции
 https://stefaniuk.website/all/collection-in-csharp/
+
+![alt text](https://stefaniuk.website/pictures/collection-compexity-4.png)
+
