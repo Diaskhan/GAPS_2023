@@ -1,6 +1,18 @@
+# паттерны проектирования это коммуникация между разработчиками.
+
+для того чтобы решить какую то задачу.
+сэкономить время и решить задачу. все время потратил на алгоритм сортировки.
+
+
+https://habr.com/en/post/210288/
+
+где то шаблон где подходит,  spa , mvc,
+
+CQS не CQRS (CQRS использует 2 дата стора)
+
+
 ![alt text](https://hsto.org/storage3/432/f5c/b4b/432f5cb4b5387312374fc36ba088f53e.png)
 
 
-![alt text](
-https://hsto.org/storage3/d8e/61e/396/d8e61e3961a76a749eb3b8bfe07c3bd7.png)
+![alt text](https://hsto.org/storage3/d8e/61e/396/d8e61e3961a76a749eb3b8bfe07c3bd7.png)
 
