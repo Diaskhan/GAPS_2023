@@ -30,12 +30,14 @@ net.pipe
 
 
 # индексирумые коллекции и не индескирумые колекции
-
 Все коллекции лежат в нескольких пространствах имен:
 
 System.Collections — простые необобщенные коллекции.
+
 System.Collections.Generic — обобщенные коллекции.
+
 System.Collections.Specialized — специальные коллекции.
+
 System.Collections.Concurrent — коллекции для работы в многопоточной среде.
 
 https://stefaniuk.website/all/collection-in-csharp/
