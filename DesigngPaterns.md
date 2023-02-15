@@ -16,3 +16,4 @@ CQS не CQRS (CQRS использует 2 дата стора)
 
 ![alt text](https://hsto.org/storage3/d8e/61e/396/d8e61e3961a76a749eb3b8bfe07c3bd7.png)
 
+EF core использует паттерн стратегия в MS SQL, oracle
