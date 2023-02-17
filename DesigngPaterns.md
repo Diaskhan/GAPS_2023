@@ -30,6 +30,9 @@ https://refactoring.guru/images/patterns/diagrams/facade/example.png)
 
 
 6.Состояние — это поведенческий паттерн проектирования, который позволяет объектам менять поведение в зависимости от своего состояния. Извне создаётся впечатление, что изменился класс объекта.
+Но на практике в FLOW-системах еще применяется такое понятие как stage!
+
+fsm это из области дискретной математики.
 
 ![alt text](https://refactoring.guru/images/patterns/diagrams/state/problem2-ru.png?id=41e38a78c644750e19603a0d867e5ab6)
 
