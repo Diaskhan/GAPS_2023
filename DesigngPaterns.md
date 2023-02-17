@@ -21,6 +21,11 @@ CQRS при команде уведомляет другие дата стор �
 
 4.Iterator паттерн может реализовывать с помощью dotnet интерфейсов IEnumerator and IEnumerables.
 
+5.Facade это когда есть куча подсистем  
+Пример со смартфоном.
+![alt text](
+https://www.codeproject.com/KB/architecture/481297/myFacade.jpg)
+
 ![alt text](https://hsto.org/storage3/432/f5c/b4b/432f5cb4b5387312374fc36ba088f53e.png)
 
 
