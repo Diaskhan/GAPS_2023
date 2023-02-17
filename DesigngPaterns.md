@@ -29,6 +29,9 @@ https://www.codeproject.com/KB/architecture/481297/myFacade.jpg)
 https://refactoring.guru/images/patterns/diagrams/facade/example.png)
 
 
+6.Состояние — это поведенческий паттерн проектирования, который позволяет объектам менять поведение в зависимости от своего состояния. Извне создаётся впечатление, что изменился класс объекта.
+
+![alt text](https://refactoring.guru/images/patterns/diagrams/state/problem2-ru.png?id=41e38a78c644750e19603a0d867e5ab6)
 
 ![alt text](https://hsto.org/storage3/432/f5c/b4b/432f5cb4b5387312374fc36ba088f53e.png)
 
