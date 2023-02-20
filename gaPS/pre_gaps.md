@@ -54,7 +54,8 @@ void Print()
 
 
 спинлок выполняется быстрее
-![спинлок выполняется быстрее](
+
+![](
 https://www.codeproject.com/KB/threads/Spin_Lock/Results.jpg)
 
 
