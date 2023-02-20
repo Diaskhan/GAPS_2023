@@ -49,11 +49,8 @@ void Print()
 }
 ```
 
-# In this article, we’ve compared two synchronization mechanisms.
-
-Spinlock is a low-level synchronization solution. It’s quick and easy to implement. However, it wastes system resources.
-
-Semaphores offer an advanced solution to the process synchronization problem. They don’t waste system resources as they put the waiting processes to sleep. Still, careless use of semaphores may lead to deadlocks.
+# Таким образом, мьютекс и спин-блокировка — это 
+два метода синхронизации процессов или потоков. Ключевое различие между мьютексом и спин-блокировкой заключается в том, что спин-блокировка требует, чтобы поток, пытающийся получить блокировку, ждал в цикле и периодически проверял ее доступность. Напротив, мьютекс позволяет нескольким процессам поочередно совместно использовать ресурс. И спин-блокировка, и мьютекс являются методами блокировки, но работа этих методов различна.
 
 .NET: Инструменты для работы с многопоточностью и асинхронностью. Часть 1
 https://habr.com/en/post/452094/
