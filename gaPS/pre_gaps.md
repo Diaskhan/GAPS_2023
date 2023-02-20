@@ -49,7 +49,11 @@ void Print()
 }
 ```
 
-synchronization primitives
+# In this article, we’ve compared two synchronization mechanisms.
+
+Spinlock is a low-level synchronization solution. It’s quick and easy to implement. However, it wastes system resources.
+
+Semaphores offer an advanced solution to the process synchronization problem. They don’t waste system resources as they put the waiting processes to sleep. Still, careless use of semaphores may lead to deadlocks.
 
 .NET: Инструменты для работы с многопоточностью и асинхронностью. Часть 1
 https://habr.com/en/post/452094/
@@ -58,7 +62,7 @@ https://habr.com/en/post/452094/
 https://habr.com/en/post/459514/
 
 
-Unit-тесты — это первый этап при выявлении багов в приложении, за ними идут более «тонкие» тесты:
+# Unit-тесты — это первый этап при выявлении багов в приложении, за ними идут более «тонкие» тесты:
 - интеграционные;
 - приемочные;
 - тесты «руками».
