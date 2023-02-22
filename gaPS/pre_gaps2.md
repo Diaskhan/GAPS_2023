@@ -12,9 +12,6 @@ DriverX
 
 SLDC
 
-что такое SCRUM
-KANBAN отличие
-
 CI CD
 continuos deployemnt
 в чем разница
