@@ -10,10 +10,6 @@ SHORT Presentation
 DriverX
 
 
-
-
-метрики качества кода VS
-
 SLDC
 
 что такое SCRUM
@@ -22,20 +18,9 @@ KANBAN отличие
 CI CD
 continuos deployemnt
 в чем разница
+<hr>
 
-ORM подходы
-- Database first
-- Code first
-- Model first (устарел после того как в 2012 году внедрили в )
-dev express XPO (model first)
-LLBLGen Pro (model first)
 
-последня версия C#
-- dotnet 7.0
-- C# 11.0
-
-что читаю какую то книгу
-- Programming ML.Net
 
 
 
