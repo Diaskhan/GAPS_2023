@@ -18,7 +18,6 @@ KANBAN отличие
 CI CD
 continuos deployemnt
 в чем разница
-<hr>
 
 
 
