@@ -27,3 +27,9 @@ Agile Release Train (ART)
 ![alt text](
 https://miro.medium.com/v2/resize:fit:720/format:webp/1*7ePQ9Ay7BjTs1HJCIeMELA.png)
 
+# отличия SCRUM от AGILE
+![](
+https://babok-school.ru/wp-content/uploads/2021/08/sdlc1-571x400.png)
+
+
+
