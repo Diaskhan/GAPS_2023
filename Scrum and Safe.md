@@ -21,3 +21,9 @@ Release Train Engineer (RTE)
 
 Agile Release Train (ART)
 Долгосрочная команда Agile-команд, которая совместно с другими заинтересованными лицами инкрементально разрабатывает, внедряет и, там где применимо, эксплуатирует одно или несколько решений внутри потока поставки ценности (Value Stream).
+
+
+# отличия SCRUM от AGILE
+![alt text](
+https://miro.medium.com/v2/resize:fit:720/format:webp/1*7ePQ9Ay7BjTs1HJCIeMELA.png)
+
