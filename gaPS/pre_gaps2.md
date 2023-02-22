@@ -10,8 +10,6 @@ SHORT Presentation
 DriverX
 
 
-SLDC
-
 CI CD
 continuos deployemnt
 в чем разница
