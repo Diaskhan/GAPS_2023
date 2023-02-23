@@ -10,11 +10,6 @@ SHORT Presentation
 DriverX
 
 
-CI CD
-continuos deployemnt
-в чем разница
-
-
 
 
 
