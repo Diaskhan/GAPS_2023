@@ -12,11 +12,11 @@ we used dotnet, extjs and angular. we used oracle and sql databases.
 
 in TCO(sub company of Chevron) we used, dotnet, angular and azure, and implemeneted some tools for Accountant of TCO.
 In general its integrated between Goverment system and inner systems of TCO.
-For example Digital Act of Acceptance, the 3-party create some act in goverment system, after this TCO must approve this act.
+For example Digital Act of Acceptance, the 3-party create some act in goverment system, after this TCO must approve this act, and approving this act proccessed in DAoA.
 and DAoA is system that the bridge between Tco and Govermant system. 
 
 
-# Part 3
+# Part 2
 I have seen in local market, not so interesting projects, and its very small.
 When net core was released, a realized that dotnet platform will gonna grow.
 Actually Microsoft stack technology it much closer to me. 
