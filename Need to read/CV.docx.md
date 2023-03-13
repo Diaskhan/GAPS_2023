@@ -3,6 +3,9 @@
 
 General JS: [Современный учебник JavaScript](https://www.google.com/url?q=https://learn.javascript.ru/&sa=D&source=editors&ust=1678725538024406&usg=AOvVaw3uDOcOzRg6RTXqtcoEj348)
 
+
+
+
 Scopes and closures: [Scope and Closures in JavaScript – Explained with Examples (freecodecamp.org)](https://www.google.com/url?q=https://www.freecodecamp.org/news/scope-and-closures-in-javascript/&sa=D&source=editors&ust=1678725538024937&usg=AOvVaw0hnJzus8a_VIzE4LNi_Q7-)
 
 Event flow, bubbling, and capturing: [Event Bubbling and Capturing in JavaScript - javatpoint](https://www.google.com/url?q=https://www.javatpoint.com/event-bubbling-and-capturing-in-javascript&sa=D&source=editors&ust=1678725538025276&usg=AOvVaw0ssKY7TTpdqS3EoAAlDqpF)
